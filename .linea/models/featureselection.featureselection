@@ -1,0 +1,11 @@
+selection of SplCalculator {
+  select SplCalculator
+  select base
+  select operations
+  select add
+  select subtract
+  select multiply
+  select divide
+  select capabilities
+  select decimal
+}

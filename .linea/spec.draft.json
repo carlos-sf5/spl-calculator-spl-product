@@ -1,0 +1,27 @@
+{
+  "spec": {
+    "basicData": {
+      "name": "spl-product",
+      "version": "0.0.0"
+    },
+    "dataModel": {
+      "cells": []
+    },
+    "features": [
+      "SplCalculator",
+      "base",
+      "operations",
+      "add",
+      "subtract",
+      "multiply",
+      "divide",
+      "capabilities",
+      "decimal"
+    ],
+    "statics": [],
+    "sensor": {
+      "dsl": "",
+      "parsed": null
+    }
+  }
+}

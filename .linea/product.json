@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "modules": {},
+  "models": {
+    "common": "0.1.0",
+    "featuremodel": "0.1.0"
+  }
+}
